@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Insert web page title here</title>
+    <title>Welcome Page</title>
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,31 +12,22 @@
   <body>
     <div id="tswcontainer">
       <div id="tswheader">
-        <!-- start of header section: insert your logo, etc, here -->
-        <p> Placeholder content for your header section. Replace it with your
-          website's logo or name or page title or whatever. </p>
+        <!--Header--> <img src="logostrip.jpg" alt="Emmy's Studio Logo">
         <p>&nbsp;</p>
-        <!-- end of header section: insert your logo, etc, above this line --> </div>
-      <div id="tswcontent">
-        <div id="tswcontproper">
-          <!-- start of content column: insert your content here -->
-          <h1>Welcome</h1>
-          <p>Welcome to the website all about me! I can't wait for you to get to
-            know me!</p>
-          <p> If you want a navigation menu for your side column that looks like
-            the one on thesitewizard.com, you can generate your own and
-            customize it, with the <a href="https://www.thesitewizard.com/wizards/css-menu-buttons.shtml">Navigation
-              Menu Wizard</a>. It's free, just like the <a href="https://www.thesitewizard.com/wizards/layout.shtml">Layout
-              Wizard</a> that you used to create this. </p>
-          <p> And if you want a contact form (ie, one that your visitors can use
-            to reach you), go to the <a href="https://www.thesitewizard.com/wizards/feedbackform.shtml">Feedback
-              Form Wizard</a> to create one. Yes, it's free too. </p>
-          <p> Okay, that's it. I've run out of meaningful things to say for this
-            placeholder content, and can't be bothered to think up any more
-            stuff that you're just going to delete anyway. </p>
-          <p> All the best for your site! </p>
+        <!--end header--> </div>
+      <div id="tswcontproper">
+        <div id="tswcontent">
+          <!--Content column-->
+          <h1>Welcome!</h1>
+          <p>Hello! I'm Emmy, a rising senior, and am a student at
+            the WPI Frontiers 1 Camp. For the camp, my major is Computer Science
+            (obviously) and my minor is Psychology with Prof. Davis. This is a
+            website for you to get to know more about me! You can learn specific
+            parts about me, by clicking on different parts in the navigation bar
+            at left.</p>
+          <img src="Toby.jpg" alt="Toby">
           <p>&nbsp;</p>
-          <!-- end of content column: put your content above this line --> </div>
+          <!--end of content column--> </div>
       </div>
       <div id="tswsidecol">
         <div id="tswsideproper">
@@ -51,10 +42,9 @@
       </div>
       <div style="clear: both;"></div>
       <div id="tswfooter">
-        <!-- start of footer section: insert your copyright notice, etc, here -->
-        <p> Placeholder content for the footer: please replace these words with
-          your real content. </p>
-        <!-- end of footer section: insert your copyright notice, etc, above this line -->
+        <!--footer-->
+        <p> Emmy's work. Don't steal. You're better than that. </p>
+        <!--end of footer-->
       </div>
     </div>
   </body>
