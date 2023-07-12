@@ -10,6 +10,17 @@
     <link rel="stylesheet" type="text/css" href="tswnavbar.css">
   </head>
   <body>
+    <div id="google_translate_element"></div>
+    <script type="text/javascript"> 
+        function googleTranslateElementInit() { 
+            new google.translate.TranslateElement(
+                {pageLanguage: 'en'}, 
+                'google_translate_element'
+            ); 
+        } 
+    </script>
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script>
     <div id="tswcontainer">
       <div id="tswheader">
         <!--Header--> <img src="logostrip.jpg" alt="Emmy's Studio Logo">
@@ -25,7 +36,7 @@
             website for you to get to know more about me! You can learn specific
             parts about me, by clicking on different parts in the navigation bar
             at left.</p>
-          <img src="Toby.JPG" alt="Toby" style="width: 330px; height: 441px;">
+          <img src="Toby.JPG" alt="Toby" style="width: 513px; height: 685px;">
           <p>&nbsp;</p>
           <!--end of content column--> </div>
       </div>
@@ -34,7 +45,7 @@
           <div id="tswcssbuttons">
             <ul>
               <li><a href="index.html">home</a></li>
-              <li><a href="myinterests.html">my interests</a></li>
+              <li><a href="myintereststake2.html">my interests</a></li>
               <li> <a onclick="alert('I am from Monson, MA')">my hometown</a></li>
             </ul>
           </div>
@@ -46,5 +57,6 @@
         <p> Emmy's work. Don't steal. You're better than that. </p>
         <!--end of footer--> </div>
     </div>
+    
   </body>
 </html>
