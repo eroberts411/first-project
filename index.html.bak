@@ -32,10 +32,8 @@
           <h1>Welcome!</h1>
           <p>Hello! I'm Emmy, a rising senior, and am a student at the WPI
             Frontiers 1 Camp. For the camp, my major is Computer Science
-            (obviously) and my minor is Psychology with Prof. Davis. This is a
-            website for you to get to know more about me! You can learn specific
-            parts about me, by clicking on different parts in the navigation bar
-            at left.</p>
+            (obviously) and my minor is Psychology with Prof. Davis. Have fun
+            exploring this website! Many fun tabs have been included.</p>
           <img src="Toby.JPG" alt="Toby" style="width: 513px; height: 685px;">
           <p>&nbsp;</p>
           <!--end of content column--> </div>
@@ -60,6 +58,5 @@
         <p> Emmy's work. Don't steal. You're better than that. </p>
         <!--end of footer--> </div>
     </div>
-    
   </body>
 </html>
