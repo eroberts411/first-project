@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+}
+
+button {
+    background-color: lightseagreen;
+    border: none;
+    width: 200px;
+    color: black;
+    padding: 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+
+p {
+    font-size: large;
+}
+
+#face {
+    width: 50px;
+    height: 150 px;
+    padding: 50px;
+    margin: 50px auto;
+    border: 1px solid gray;
+    font-size: 80px;
+    border-radius: 10px;
+}
