@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ping Pong Game</title>
+    <link rel="stylesheet" href="robpong.css">
+</head>
+<body>
+    <h1>ROB PONG</h1>
+    <input id="philcolorchoice" type="color" onchange="setPhil()">
+    <button type="button" onclick="setPhil()">Select Phil Color</button>
+    <input id="eduardocolorchoice" type="color" onchange="setPaddleL()">
+    <button type="button" onclick="setPaddleL()">Select Player 1 Color</button>
+    <input id="josecolorchoice" type="color" onchange="setPaddleR()">
+    <button type="button" onclick="setPaddleR()">Select Player 2 Color</button>
+    <p></p>
+    <div id="game">
+    <canvas id="gameboard" width="500" height="500"></canvas>
+    <div id="scoreboard"> 0:0</div>
+    <p></p>
+    <button id="reset" onclick="resetGame()">RESET</button>
+    <p>The ball's name is Phil. He is a psychotic ping pong ball</p>
+    <p>The left paddle's name is Eduardo. There was some beef between Phil and Eduardo.
+    </p>
+    <p>The right paddle's name is Jose. Jose can be too violent for Phil so Phil greatly dislikes Jose and will stay away at great stakes.</p>
+    </div>
+    
+    <script src="phil.js"></script>
+    <script src="paddle.js"></script>
+    <script src="robpong.js"></script>
+</body>
+</html>

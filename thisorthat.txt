@@ -1,0 +1,31 @@
+To create this or that game:
+
+Goal: have two options for the user to be able to choose between. When they click the button it returns their choice.
+
+Operational ideas: have the question displayed in a paragraph tag. have buttons they can choose from. when the button clicks it replaces a blank paragraph tag with a paragraph tag with the answer now.
+
+Did this work? What errors occured
+
+
+
+
+This or that questions...
+candy or chocolate
+ocean or mountains
+pancake or waffle
+pizza or pasta
+coca cola or pepsi
+cake or pie
+passenger or driver
+outside or inside
+weekend or weekday
+night in or night out
+plan it or wing it
+mom or dad
+skiing or snowboarding
+eat pineapple or eat watermelon
+introvert or extrovert
+family time or me time
+coffee or tea
+comedy or horror
+work on your feet or in a chair

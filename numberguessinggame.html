@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Guessing Game</title>
+    <link rel="stylesheet" href="numberguessinggame.css">
+</head>
+<body>
+    <h1>Number Guessing Game</h1>
+    <p>The rules of the game are...</p>
+    <div id="game_containter">
+        <input id="num_input" type="number" value="000" min="000" max="999" onchange="makeGuess()">
+        <button type="button" onclick="makeGuess()">GUESS</button>
+        <p id="guess_info"></p>
+    </div>
+    <script src="numberguessinggame.js" onload="startGame()"></script>
+</body>
+</html>
