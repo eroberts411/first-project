@@ -3,6 +3,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Interests Page</title>
+    <link rel="icon" href="photofiles/nal.jpg" type="image/x-icon">
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -74,8 +75,13 @@
                 but they still love us all the same. </p>
             </li>
           </ul>
-          <img src="swimming.jpg" alt="swimming" style="width: 373px; height: 248px;">
-          <img scr="music.jpg" alt="music notes">
+          <img src="photofiles/swimming.jpg" alt="swimming" style="width: 373px; height: 248px;">
+          <img src="photofiles/drawing.JPG" alt="drawing" style="width: 319px; height: 242px;">
+          <img src="photofiles/annabethchase.jpg" alt="annabeth chase" style="width: 214px; height: 286px;">
+          <img src="photofiles/painting.jpg" alt="painting" style="width: 263px; height: 351px;">
+          <img src="photofiles/piccolo.jpg" alt="piccolo" style="width: 245px; height: 245px;">
+          <img src="photofiles/jax.jpg" alt="jax" style="width: 280px; height: 280px;">&nbsp;
+          <img src="photofiles/tobes.jpg" style="width: 275px; height: 304px;">
           <p>&nbsp;</p>
           <!--end of content column--> </div>
       </div>
@@ -87,8 +93,9 @@
               <li><a href="myintereststake2.html">my interests</a></li>
               <li> <a onclick="alert('I am from Monson, MA')">my hometown</a></li>
               <li> <a href="thisorthat.html">this or that</a></li>
-              <li> <a href="favorites.html">favorites</a></li>
               <li> <a href="myplaylist.html">my playlist</a></li>
+              <li> <a href="robpong.html">ping pong game</a></li>
+              <li> <a href="mytodolist.html">to do list</a></li>
             </ul>
           </div>
         </div>
