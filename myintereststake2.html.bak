@@ -50,7 +50,7 @@
             <li>
               <p> <b>Programming</b>, working with many different programming
                 languages. I even programmed this! My favorite language to work
-                with due to versatility, is Java. </p>
+                with due to versatility, is JavaScript. </p>
             </li>
             <li>
               <p> <b>Painting</b> is a more recent find of mine, and is a big
@@ -76,12 +76,14 @@
             </li>
           </ul>
           <img src="photofiles/swimming.jpg" alt="swimming" style="width: 373px; height: 248px;">
-          <img src="photofiles/drawing.JPG" alt="drawing" style="width: 319px; height: 242px;">
           <img src="photofiles/annabethchase.jpg" alt="annabeth chase" style="width: 214px; height: 286px;">
-          <img src="photofiles/painting.jpg" alt="painting" style="width: 263px; height: 351px;">
+          <img src="photofiles/dante.jpg">
+          <img src="photofiles/painting.jpg" alt="painting" style="width: 211px; height: 282px;">
           <img src="photofiles/piccolo.jpg" alt="piccolo" style="width: 245px; height: 245px;">
-          <img src="photofiles/jax.jpg" alt="jax" style="width: 280px; height: 280px;">&nbsp;
+          <img src="photofiles/jax.jpg" alt="jax" style="width: 280px; height: 280px;">
           <img src="photofiles/tobes.jpg" style="width: 275px; height: 304px;">
+          <img src="photofiles/nala.jpg">
+          <img src="photofiles/toto.jpg">
           <p>&nbsp;</p>
           <!--end of content column--> </div>
       </div>
