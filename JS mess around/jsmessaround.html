@@ -10,7 +10,15 @@
 <body>
     <script src="jsmessaround.js"></script>
     <h1>Hi</h1>
-    <button id="hibutton">Click</button>
-    <p id="sayhi"> </p>
+    <p>Choose your favorite type of animal below.</p>
+    <form action="/action_page.php">
+        <input type="radio" id="cats" name="fav_animal" value="cats">
+        <label for="cats">cats</dogs><br>
+        <input type="radio" id="dogs" name="fav_language" value="dogs">
+        <label for="dogs">dogs</label><br>
+        <input type="radio" id="bunnies" name="fav_animal" value="bunnies">
+        <label for="bunnies">bunnies</label><br><br>
+        <input type="submit" value="Submit">
+    </form>
 </body>
 </html>
